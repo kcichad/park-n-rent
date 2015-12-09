@@ -2,5 +2,14 @@
   "db": {
     "name": "db",
     "connector": "memory"
+  },
+  "mysqlIDs": {
+    "name": "mysqlIDs",
+    "connector": "mysql",
+    "host": "localhost",
+    "port": 3306,
+    "database": "demo",
+    "username": "admin",
+    "password": "admin"
   }
 }
